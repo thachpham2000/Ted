@@ -1,0 +1,9 @@
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\bin\Debug\Car racing.exe.config
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\bin\Debug\Car racing.exe
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\bin\Debug\Car racing.pdb
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car racing.csprojResolveAssemblyReference.cache
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car_racing.Properties.Resources.resources
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car racing.csproj.GenerateResource.Cache
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car racing.exe
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car racing.pdb
+c:\users\thach\documents\visual studio 2015\Projects\Car racing\Car racing\obj\Debug\Car_racing.Car_racing.resources
